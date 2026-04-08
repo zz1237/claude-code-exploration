@@ -1,0 +1,23 @@
+2026-04-07 17:48:41 - INFO - ============================================================
+2026-04-07 17:48:41 - INFO - Starting API data fetch operation
+2026-04-07 17:48:41 - INFO - Total URLs to fetch: 6
+2026-04-07 17:48:41 - INFO - ============================================================
+2026-04-07 17:48:41 - INFO - Fetching data from: https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_customer.csv
+2026-04-07 17:48:41 - INFO - Fetching data from: https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_store.csv
+2026-04-07 17:48:41 - INFO - Fetching data from: https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_date.csv
+2026-04-07 17:48:41 - INFO - Fetching data from: https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_product.csv
+2026-04-07 17:48:41 - INFO - Fetching data from: https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/fact_sales.csv
+2026-04-07 17:48:41 - INFO - Fetching data from: https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/fact_returns.csv
+2026-04-07 17:48:42 - INFO - Successfully saved dim_store.csv to .claude\skills\fetchapi\data\2026-04-07_17-48-42\dim_store.csv
+2026-04-07 17:48:42 - INFO - Successfully saved dim_customer.csv to .claude\skills\fetchapi\data\2026-04-07_17-48-42\dim_customer.csv
+2026-04-07 17:48:42 - INFO - Successfully saved dim_date.csv to .claude\skills\fetchapi\data\2026-04-07_17-48-42\dim_date.csv
+2026-04-07 17:48:42 - INFO - Successfully saved dim_product.csv to .claude\skills\fetchapi\data\2026-04-07_17-48-42\dim_product.csv
+2026-04-07 17:48:42 - INFO - Successfully saved fact_sales.csv to .claude\skills\fetchapi\data\2026-04-07_17-48-42\fact_sales.csv
+2026-04-07 17:48:42 - INFO - Successfully saved fact_returns.csv to .claude\skills\fetchapi\data\2026-04-07_17-48-42\fact_returns.csv
+2026-04-07 17:48:42 - INFO - ============================================================
+2026-04-07 17:48:42 - INFO - API Fetch Operation Summary
+2026-04-07 17:48:42 - INFO - Total requests: 6
+2026-04-07 17:48:42 - INFO - Successful: 6
+2026-04-07 17:48:42 - INFO - Failed: 0
+2026-04-07 17:48:42 - INFO - ============================================================
+2026-04-07 17:48:42 - INFO - All API calls completed successfully!

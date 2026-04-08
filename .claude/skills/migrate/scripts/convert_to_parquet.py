@@ -89,7 +89,7 @@ def convert_csv_to_parquet(
 def main():
     """Main function to orchestrate the conversion process."""
     # Define paths
-    source_base = r".\.claude\skills\fetchAPI\data"
+    source_base = r".\.claude\skills\fetchapi\data"
     output_base = r".\.claude\skills\migrate\data"
     
     print("=" * 70)
