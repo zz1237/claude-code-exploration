@@ -1,0 +1,6 @@
+{
+  "enabledMcpjsonServers": [
+    "ddg-search"
+  ],
+  "enableAllProjectMcpServers": true
+}
