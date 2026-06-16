@@ -6,7 +6,9 @@ description: Fetches data from APIs and handles responses. Use when interacting 
 ## Usage
 
 ### Step-1: Pick the python environment
-Before you start, make sure to pick the python environment in which you want to run the code. You can run/install dependencies using my '.venv' environment which is located at "C:\Users\roger\Desktop\Claude Code\Claude_Code_Demo\.venv"  
+Before you start, make sure to pick the python environment in which you want to run the code. You can run/install dependencies using my '.venv' environment which is located at "C:\Users\roger\Desktop\Claude Code\Claude_Code_Demo\.venv"
+
+**Script Location:** The main execution script is located at `.claude/skills/fetchapi/scripts/fetch_data.py`  
 
 ### Step-2: Fetch Data from APIs
 You need to make python API calls to fetch data from the following URLs using async httpx:
